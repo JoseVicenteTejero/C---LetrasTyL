@@ -1,0 +1,13 @@
+C:\20483\mod1-4\matriz7x7\bin\Debug\netcoreapp3.1\matriz7x7.exe
+C:\20483\mod1-4\matriz7x7\bin\Debug\netcoreapp3.1\matriz7x7.deps.json
+C:\20483\mod1-4\matriz7x7\bin\Debug\netcoreapp3.1\matriz7x7.runtimeconfig.json
+C:\20483\mod1-4\matriz7x7\bin\Debug\netcoreapp3.1\matriz7x7.runtimeconfig.dev.json
+C:\20483\mod1-4\matriz7x7\bin\Debug\netcoreapp3.1\matriz7x7.dll
+C:\20483\mod1-4\matriz7x7\bin\Debug\netcoreapp3.1\matriz7x7.pdb
+C:\20483\mod1-4\matriz7x7\obj\Debug\netcoreapp3.1\matriz7x7.csprojAssemblyReference.cache
+C:\20483\mod1-4\matriz7x7\obj\Debug\netcoreapp3.1\matriz7x7.AssemblyInfoInputs.cache
+C:\20483\mod1-4\matriz7x7\obj\Debug\netcoreapp3.1\matriz7x7.AssemblyInfo.cs
+C:\20483\mod1-4\matriz7x7\obj\Debug\netcoreapp3.1\matriz7x7.csproj.CoreCompileInputs.cache
+C:\20483\mod1-4\matriz7x7\obj\Debug\netcoreapp3.1\matriz7x7.dll
+C:\20483\mod1-4\matriz7x7\obj\Debug\netcoreapp3.1\matriz7x7.pdb
+C:\20483\mod1-4\matriz7x7\obj\Debug\netcoreapp3.1\matriz7x7.genruntimeconfig.cache
