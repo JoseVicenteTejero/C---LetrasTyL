@@ -1,7 +1,7 @@
 ﻿using System;
 
 
-
+7x7
 class Program
 {
     static void Main(string[] args)
